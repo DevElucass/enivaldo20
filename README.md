@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Olá eu sou Enivaldo Lucas !!
-{!{Blog}}()
+{!{}}()
+### Estou estudando e preticando html, css, javascript e python.
+### Logo logo estarei trabalhando na área como Dev...Back End.
