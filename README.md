@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ### Olá eu sou Enivaldo Lucas !!
 {!{}}()
-### Estou estudando e preticando html, css, javascript e python.
+### Estou estudando e praticando html, css, javascript e python.
 ### Logo logo estarei trabalhando na área como Dev...Back End.
