@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 Conhecimento em: 
 
 
-### Estou estudando e praticando html, css, javascript e python.
+### Conhecimento em html, css, javascript e python.
 ### Logo logo estarei trabalhando na área como Dev...Back End.
