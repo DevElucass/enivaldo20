@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 {!{}}()
 ### Desenvolvedor Back End - Formado no programa ONE Oracle - Alura
 Conhecimento em: 
-
-
-### Conhecimento em html, css, javascript e python.
-### Logo logo estarei trabalhando na área como Dev...Back End.
+### html, css, javascript e python.
+### Estou em busca de uma oportunidade como Dev...Back End Jr.
