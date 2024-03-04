@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Olá eu sou Enivaldo Lucas !!
-{!{}}()
+
 ### Desenvolvedor Back End - Formado no programa ONE Oracle - Alura
 Conhecimento em: 
 ### html, css, Java, javascript, c#, C++, PHP e python.
